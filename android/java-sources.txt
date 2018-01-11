@@ -1,0 +1,8 @@
+"/Users/fuerst/Documents/TiFirebase/titanium-firebase-crash-reporting/android/src/firebase/crashreporting/FirebasecrashreportingModule.java"
+"/Users/fuerst/Documents/TiFirebase/titanium-firebase-crash-reporting/android/build/generated/java/firebase/crashreporting/FirebasecrashreportingBootstrap.java"
+"/Users/fuerst/Documents/TiFirebase/titanium-firebase-crash-reporting/android/build/generated/r/android/support/compat/R.java"
+"/Users/fuerst/Documents/TiFirebase/titanium-firebase-crash-reporting/android/build/generated/r/android/support/design/R.java"
+"/Users/fuerst/Documents/TiFirebase/titanium-firebase-crash-reporting/android/build/generated/r/android/support/v7/appcompat/R.java"
+"/Users/fuerst/Documents/TiFirebase/titanium-firebase-crash-reporting/android/build/generated/r/android/support/v7/cardview/R.java"
+"/Users/fuerst/Documents/TiFirebase/titanium-firebase-crash-reporting/android/build/generated/r/firebase/crashreporting/R.java"
+"/Users/fuerst/Documents/TiFirebase/titanium-firebase-crash-reporting/android/build/generated/r/ti/modules/titanium/ui/R.java"

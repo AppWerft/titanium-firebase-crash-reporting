@@ -25,7 +25,7 @@ GOOGLE_APP_ID=1:xxx:ios:xxx
 "<PATH TO YOUR PROJECT>/scripts/upload-sym" "<PATH TO YOUR PROJECT>/ServiceAccount.json"
 ```
 
-## API's
+## iOS -API's
 
 ### `FirebaseCrashReporting`
 
@@ -37,6 +37,16 @@ GOOGLE_APP_ID=1:xxx:ios:xxx
 #### Properties
 
 ##### `crashCollectionEnabled` (Boolean, get/set)
+
+## Android - APIs
+
+### Methods
+
+#### startNativeCrashReporting()
+#### stopNativeCrashReporting()
+#### startJSCrashReporting()
+#### stopJSCrashReporting()
+
 
 ## Example
 ```js
